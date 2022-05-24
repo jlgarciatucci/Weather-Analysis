@@ -840,9 +840,9 @@ plt.savefig('final.png')
 ```
 
 
-    <IPython.core.display.Javascript object>
 
-![png](map_final.png)
+
+![png](final.png)
 
 ```python
 
