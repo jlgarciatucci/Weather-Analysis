@@ -399,6 +399,7 @@ macro._template = Template(template)
 m.get_root().add_child(macro)
 #map will be captured into map_final.png for later incorporation into the final visualization
 m
+```
 ### Map of the weather stations
 <img src="map_final.png">
 
