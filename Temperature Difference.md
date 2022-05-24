@@ -393,6 +393,7 @@ template = """
     
 </style>
 {% endmacro %}"""
+```python
 macro = MacroElement()
 macro._template = Template(template)
 m.get_root().add_child(macro)
