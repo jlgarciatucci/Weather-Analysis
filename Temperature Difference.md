@@ -845,5 +845,5 @@ plt.savefig('final.png')
 
 
 ```python
-
+![png](map_final.png)
 ```
