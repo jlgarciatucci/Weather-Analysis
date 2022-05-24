@@ -244,7 +244,7 @@ stations_df #checking df filtered to stations only in the Barcelona Province
 </table>
 </div>
 
-<img src="map_final.png">
+
 
 
 ```python
@@ -399,6 +399,7 @@ m.get_root().add_child(macro)
 #map will be captured into map_final.png for later incorporation into the final visualization
 m
 
+<img src="map_final.png">
 
 
 
